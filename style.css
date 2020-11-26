@@ -1,0 +1,89 @@
+body{
+    background-color:#222629;
+    margin:0px;
+    padding: 0px;
+    font-family:   Georgia, ' serif''Courier New', Courier, monospace;
+    font-size: 18px;
+}
+#header{
+    height: 200px;
+    width: 99%;
+    color: rgba(255, 201, 22, 0.938);
+    background-color:#222629;
+    text-align: center;
+ 
+    
+   
+}
+#headerp{
+    color: #7a7f85;
+   
+    
+}
+#headerl{
+    color:#7a7f85;
+}
+#sixty{
+    width:70%;
+    background-color:#222629;
+    position: absolute;
+    height: 1000px;
+    right:0px;
+    color: white;
+    padding:25px;
+    font-size:18
+   
+}
+#sixty h2{
+    color:yellow;
+}
+#game{
+    position: absolute;
+    
+    right:100px;
+}
+#music{
+    position: absolute;
+    right:250px;
+
+
+}
+#car{
+    position: absolute;
+    right:500px;
+
+}
+#film{
+    position: absolute;
+    right:800px;
+
+
+}
+#inter p {
+    font-size: 16px;
+    text-align:left;
+    color: white;
+
+}
+.center {
+    margin-left:25px;
+    margin-right: auto;
+    width:300px;
+    border-radius: 300px;
+
+  }
+  h2{
+      color: yellow;
+  }
+  h3{
+      color:whitesmoke ;
+  }
+  #fourty{
+      color:white;
+      margin:5px;
+      
+
+  }
+#fourth p{
+      color: blanchedalmond;
+  }
